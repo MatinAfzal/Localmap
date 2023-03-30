@@ -16,7 +16,9 @@ This tool has been tested on Windows and works well and with high speed. This to
 
 # Usage
 Open cmd with administrator access level:
+
 	C:\Windows\system32> cd ./<path>/LOCAL MAP
+	
 	C:\LOCAL MAP> python localmap.py
   
   # Created by

@@ -15,7 +15,7 @@ Also, any possible damage to the network is the responsibility of the user.
 This tool has been tested on Windows and works well with high speed. This tool is also optimized for Linux, however it (might) run into issues on Linux!
 
 # Requirements
-Python 3 >  
+Python 3.10.7 > ---> https://www.python.org/downloads/    
 mac_vendor_lookup library ---> https://pypi.org/project/mac-vendor-lookup/   
 scapy library ---> https://pypi.org/project/scapy/  
 tqdm library ---> https://pypi.org/project/tqdm/  

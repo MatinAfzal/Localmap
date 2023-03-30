@@ -12,7 +12,7 @@ The consequences of any unethical or illegal use are entirely the responsibility
 Also, any possible damage to the network is the responsibility of the user.
 
 # Attention
-This tool has been tested on Windows and works well and with high speed. This tool is also optimized for Linux, however it (might) run into issues on Linux!
+This tool has been tested on Windows and works well with high speed. This tool is also optimized for Linux, however it (might) run into issues on Linux!
 
 # Usage
 Open cmd with administrator access level:

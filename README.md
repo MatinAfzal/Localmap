@@ -14,7 +14,7 @@ Also, any possible damage to the network is the responsibility of the user.
 # Attention
 This tool has been tested on Windows and works well and with high speed. This tool is also optimized for Linux, however it (might) run into issues on Linux!
 
-# Usage!
+# Usage
 Open cmd with administrator access level:
 	C:\Windows\system32> cd ./<path>/LOCAL MAP
 	C:\LOCAL MAP> python localmap.py

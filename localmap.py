@@ -309,3 +309,5 @@ if __name__ == "__main__":
     alive_hosts = aliveHostList(possible_hosts)
 
     aliveHostsPorts(alive_hosts)
+    
+    console_get = input("Enter any key: ")

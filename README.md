@@ -21,7 +21,7 @@ localmap can perform a full TCP port scan for any active host in the network and
 ## Installation
 You can download the execute version (.exe) of localmap from here (recommended) Or you can clone this repository
 
-execute (.exe) download: https://github.com/MatinAfzal/Localmap/releases/tag/V0.0.1
+execute (.exe) download: https://github.com/MatinAfzal/Localmap/releases/tag/V0.0.1OF
 
 OR
 

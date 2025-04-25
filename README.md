@@ -1,6 +1,9 @@
 
 ![localmapscreenshot](https://user-images.githubusercontent.com/128434167/229271973-7ba89b37-4bcb-439c-ab6b-a1b2cfb9de6a.png)
 
+> ⚠️ **Important:**  
+> At the time I was working on this project, my main goal was to get it running on my own machine. It hasn't been optimized for other environments, so you may run into issues.
+
 localmap is a security tool for scanning the local network This tool can find all active hosts in a network and their specifications such as name - Open ports - MAC address - Mac manufacturer and Operating system.
 
 localmap can perform a full TCP port scan for any active host in the network and determine the active services on each port. This tool displays the active operating system on each host by checking the fingerprints of packets received from each host and each port.
